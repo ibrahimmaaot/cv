@@ -1,4 +1,7 @@
-body{background-color:#EEE3CB ;}
+/**************************tag selector**************************/
+body{
+  background-color:#EEE3CB ;
+}
 
 hr{
   background-color:#EEE3CB ;
@@ -9,7 +12,10 @@ hr{
  }
 
 
-img{height:300px ; }
+img{
+  height:300px ;
+  border-radius:100%; 
+}
 
 h1{
   background-color:#EEE3CB;
@@ -17,8 +23,14 @@ h1{
   color:#16213E;
 }
 
+
 h2{
   background-color:#EEE3CB;
   border-style:none;
+  color:#16213E;
+}
+
+/**************************tag class**************************/
+.v3{
   color:#16213E;
 }
